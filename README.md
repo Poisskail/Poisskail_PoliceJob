@@ -17,5 +17,7 @@ Et vos webhook ici, afin que les hauts gradés LSPD puissent avoir les logs de l
 # Credits
 
 Discord : Poisskail#6460
+
 Développeur LUA, Javascript.
+
 Projet en cours : Neptune Anticheat : https://discord.gg/unvzS2AspX (Anticheat FiveM)
