@@ -6,7 +6,7 @@ Pour commencer, si vous utilisez le comico Vespucci, merci de télécharger ce m
 Sinon
 Vous avez juste à modifier les points dans le dossier "config.lua"
 
-#Credits
+# Credits
 
 Discord : Poisskail#6460
 Développeur LUA, Javascript.
