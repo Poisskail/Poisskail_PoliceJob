@@ -2,7 +2,7 @@
 
 # Installation
 
-Pour commencer, si vous utilisez le comico Vespucci, merci d'extraire le fichier "stream.rar" dans le dossier du police job.
+Pour commencer, si vous utilisez le comico Vespucci, merci de télécharger le fichier : https://www.mediafire.com/file/dxw14it8rcjydxq/stream.rar/file et de l'extraire dans le dossier du police job.
 Sinon
 Vous avez juste à modifier les points dans le dossier "config.lua"
 
